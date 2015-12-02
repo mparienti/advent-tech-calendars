@@ -1,9 +1,5 @@
 # 2015 Advent Tech Calendars
 
-## French
-
-* [24 jours de web](http://www.24joursdeweb.fr/): Le calendrier de l'avent des gens qui font le web d'après.
-
 ## English
 
 * [2015 Web Design Advent](http://codepen.io/michellebarker/full/jbgvge/): The best articles, videos and tips from the past year in web design
@@ -15,6 +11,11 @@
 * [Performance Calendar](http://calendar.perfplanet.com/2015/): The speed geek's favorite time of the year
 * [Perl Advent Calendar 2015](http://perladvent.org/2015/): 2015 twenty four merry days of Perl
 * [Sys Advent](http://sysadvent.blogspot.co.uk/)
+
+## French
+
+* [24 jours de web](http://www.24joursdeweb.fr/): Le calendrier de l'avent des gens qui font le web d'après.
+* [ES6/ES2015 en 24 jours !](http://putaindecode.io/fr/evenements/2015/calendrier-avent/): vous apprendre ES6 (ES2015) en 24 jours.
 
 
 ## German
