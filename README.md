@@ -1,4 +1,6 @@
-# 2015 Advent Tech Calendars
+# 2015 Tech Advent Calendars
+
+This is a list of 2015 tech advent calendars.
 
 ## English
 
@@ -7,6 +9,7 @@
 * [24 Days of Blackfire](https://blackfire.io/docs/24-days/index): One Blackfire tutorial a day, keeps the performance bottleneck away.
 * [24 ways](https://24ways.org/): to impress your friends
 * [aws advent](http://awsadvent.tumblr.com/): AWS Advent is an annual exploration of Amazon Web Services.
+* [Golang advent calendar](https://medium.com/@matryer/golang-advent-calendar-index-75248eaf9704)
 * [Java Advent](http://www.javaadvent.com/): The JVM Programming Advent Calendar
 * [Lean UXmas 2015](http://leanuxmas.com/2015): The top articles from 2015's Agile & Lean UX News
 * [Performance Calendar](http://calendar.perfplanet.com/2015/): The speed geek's favorite time of the year
